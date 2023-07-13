@@ -25,6 +25,13 @@
   // "remoteUser": "vscode",
   // Configure tool-specific properties.
   "customizations": {
+    "codespaces": {
+      "repositories": {
+        "cbmrham/melomemo": {
+          "permissions": "write-all"
+        }
+      }
+    },
     "vscode": {
       "workbench.colorTheme": "Default Dark+",
       "github.copilot.enable": {
