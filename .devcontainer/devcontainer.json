@@ -21,16 +21,32 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"mhutchie.git-graph",
-				"eamodio.gitlens",
-				"ms-azuretools.vscode-docker",
-				"github.vscode-github-actions",
-				"johnpapa.vscode-peacock",
-				"timonwong.shellcheck",
+				"redhat.vscode-yaml",
+				"DavidAnson.vscode-markdownlint",
+				"donjayamanne.githistory",
+				"EditorConfig.EditorConfig",
+				"esbenp.prettier-vscode",
+        "GitHub.copilot",
+        "GitHub.vscode-pull-request-github",
+        "hashicorp.terraform",
+        "kaiwood.endwise",
+        "mhutchie.git-graph",
+        "mquandalle.graphql",
+        "ms-azuretools.vscode-docker",
+        "naumovs.color-highlight",
+        "oderwat.indent-rainbow",
+        "PKief.material-icon-theme",
+        "Prisma.prisma",
+        "PulkitGangwar.nextjs-snippets",
+        "redhat.vscode-yaml", 
+        "sohamkamani.code-eol",
+        "stylelint.vscode-stylelint",
+        "tonybaloney.vscode-pets",
+        "vscode-icons-team.vscode-icons",
+        "wix.vscode-import-cost",
 				"robertz.code-snapshot"
 			],
 			"settings": {
-				"editor.tabSize": 4,
 				"terminal.integrated.defaultProfile.linux": "zsh",
 				"terminal.integrated.profiles.linux": {
 					"bash": {
